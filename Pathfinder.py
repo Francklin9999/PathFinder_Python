@@ -1,7 +1,6 @@
 from tkinter import messagebox, Tk
 import pygame
 import math
-import sys
 
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 500
